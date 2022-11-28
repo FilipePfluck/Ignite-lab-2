@@ -7,3 +7,4 @@ Essa aplicação foi desenvolvida durante o segundo Ignite Lab, um evento propor
 ![](https://github.com/FilipePfluck/Ignite-lab-2/blob/main/images/ignite-lab-3.png)
 
 PS: Sobre o player de vídeo na print, é por que o vídeo em questão está privado hoje em dia, e eu não consegui recuperar minha conta no Graphcms pra adicionar mais aulas ou mudar a url pra um vídeo público :(
+Mas o player foi feito com a biblioteca Vime e eu garanto que na época em que foi desenvolvido estava funcionando.
